@@ -80,3 +80,10 @@ footer {
   background-color: #F14A16;
   box-shadow: inset 5px 5px 12px #ffffff;
 }
+.pressed{
+  box-shadow: 0 10px 15px 2 #DBEDF3;
+  opacity: 0.5;
+  transform:scale(1.3,1.3);
+  -webkit-transform:scale(1.3,1.3);
+  -moz-transform:scale(1.3,1.3);
+}
