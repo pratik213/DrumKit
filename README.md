@@ -1,3 +1,3 @@
 # DrumKit
-Drum Kit from angela yu course modified
+Drum Kit
 https://pratik213.github.io/DrumKit/
